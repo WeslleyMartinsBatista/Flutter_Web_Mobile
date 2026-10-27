@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "693314257763",
+    "project_id": "flutter-rede-social-web-mobile",
+    "storage_bucket": "flutter-rede-social-web-mobile.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693314257763:android:beab2f04fceef27c2d4956",
+        "android_client_info": {
+          "package_name": "com.example.flutter_web_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgq4LOXfst0VWv0KlC_F7_9hYSADp3dsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
